@@ -1,2 +1,2 @@
 # Patatap-Clone
-A project utilising paper.js to create animations and interesting sounds
+A project utilising paper.js and howler.js to create animations and interesting sounds
